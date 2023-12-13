@@ -1,0 +1,45 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+}
+
+#rickAndMortyImage {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+button {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+#episodeSelect {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    padding: 8px;
+}
+
+#infoOutput {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+#episodeCharacters, #characterEpisodes {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    margin-top: 20px;
+}
